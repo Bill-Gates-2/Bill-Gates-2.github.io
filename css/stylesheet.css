@@ -1,5 +1,14 @@
 body {
-    background-color: #FFF8E1;
+    background-image: url("../res/backg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.profilePic {
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #ffecb1;
+    margin: 25px;
 }
 
 .profilePic img{
@@ -8,7 +17,7 @@ body {
 
 .menu {
     display: flex;
-    background-color: #FFF2CA;
+    background-color: rgba(255, 236, 177, 0.3);
     border-radius: 30px;
-    margin: 30px;
+    margin: 45px;
 }
