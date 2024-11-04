@@ -1,0 +1,14 @@
+body {
+    background-color: #FFF8E1;
+}
+
+.profilePic img{
+    border-radius: 50%;
+}
+
+.menu {
+    display: flex;
+    background-color: #FFF2CA;
+    border-radius: 30px;
+    margin: 30px;
+}
